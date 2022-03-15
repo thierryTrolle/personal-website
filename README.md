@@ -1,4 +1,4 @@
-# PersonalWebside
+# PersonalWebsite
 
 it's simple website to chow resume and professional link. 
 [www.hello-world.link](https://www.hello-world.link)
